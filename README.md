@@ -22,12 +22,9 @@ As principais tecnologias contidas nesse repositório são:
 <li>MySQL.</li>
 </ul>
 <hr>
-Os projetos são baseados no curso da
-<a href=“https://www.udemy.com/course/curso-web/“> Cod3r </a>
-.
+Os projetos são baseados no curso da Cod3r: https://www.udemy.com/course/curso-web/
 <br>
-Meu LinkedIn: 
-<a href=“https://www.linkedin.com/in/amanda-zirpolo/“> Amanda S. Zírpolo </a>
+Meu LinkedIn: Amanda S. Zírpolo https://www.linkedin.com/in/amanda-zirpolo/
 <br>
 <hr>
 <i>Niterói, Rio de Janeiro, Brasil
